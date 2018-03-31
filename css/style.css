@@ -1,0 +1,10 @@
+.btn-right {
+    float: right !important;
+    margin-right:2px;
+}
+.fixarRodape {
+        bottom: 10px;
+        position: fixed;
+        width: 90%;
+        text-align: center;
+}	

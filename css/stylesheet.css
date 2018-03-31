@@ -1,0 +1,50 @@
+em.input-error {
+    color: #d43f3a;
+    font-style: normal;
+    font-weight: normal;
+    position: relative;
+    top: 5px;
+}
+
+main {
+    margin-bottom: 40px;
+}
+
+.navbar-brand {
+    min-width: 200px;
+    padding: 4px 10px 0 10px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+#form-cadastro {
+    padding-top: 40px;
+}
+
+#avatar {
+    margin: 10px auto;
+    display: block;
+}
+/*Estilos para tela de login*/
+#form-container{
+    width: 100vw;
+    height: 100vh;
+    background: #d8d8d8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#form-box{
+    width: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#form-box input{
+    font-size: large;
+}
+#form-texto{
+    font-size: large;
+}
