@@ -12,7 +12,7 @@ class db {
 	private $senha = '';
 
 	//banco de dados
-	private $database = 'sischaves';
+	private $database = 'siseve';
 
 	public function conecta_mysql(){
 

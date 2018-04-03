@@ -130,7 +130,7 @@ if (!isset($_SESSION['nome'])) {
 				
 			</div><!--  fim div container fluid  -->
 			
-			<h1>teste Git</h1>
+			
 
 			<!-- jQuery -->
 			<script src="//code.jquery.com/jquery.js"></script>
